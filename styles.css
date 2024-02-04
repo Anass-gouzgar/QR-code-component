@@ -48,6 +48,7 @@ body {
 .container p {
   color: var(--grayish-blue);
   text-align: center;
+  margin: auto;
 }
 
 .attribution {
